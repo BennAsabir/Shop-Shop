@@ -11,9 +11,6 @@ A e-commerce platform.
 
 ## General Info
 A e-commerce platform with all of the application's data centralized in state globally to make it easier to share state across the entire application. Also features a shopping cart for the application, offline functionality, and process secure online payments with a service called Stripe.
-<br>
-
-[Link to deployed application](https://damp-beach-10842.herokuapp.com/)
 
 <br>
 Image of application.
@@ -39,7 +36,7 @@ Project is created with
 To get started clone this repository using 
 <br>
 ```terminal
-git clone git@github.com:BennAsabir/search-book-engine.git
+git clone git@github.com:BennAsabir/shop-shop.git
 ```
 Install dependencies 
 ```terminal
