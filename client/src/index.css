@@ -1,7 +1,7 @@
 :root {
   --primary: #232F3E;
-  --secondary: #F3A847;
-  --tertiary: #B12704;
+  --secondary: #ff9100;
+  --tertiary: #ff0000;
   --light: #fafafa;
   --dark: #272f32;
   --error: rgb(228, 46, 1);
@@ -110,6 +110,7 @@ button[disabled] {
 
 img {
   max-width: 100%;
+  border-radius: 10px;
 }
 
 span[role="img"] {
