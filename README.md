@@ -1,5 +1,5 @@
 # Shop-Shop
-A e-commerce platform.
+An e-commerce platform, using the open-source JavaScript library Redux to manage the complex state in this large-scale React application.
 
 ## Table Of Content
 * [General Info](#general-info)
