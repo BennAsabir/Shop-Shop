@@ -11,6 +11,8 @@ An e-commerce platform, using the open-source JavaScript library Redux to manage
 
 ## General Info
 A e-commerce platform with all of the application's data centralized in state globally to make it easier to share state across the entire application. Also features a shopping cart for the application, offline functionality, and process secure online payments with a service called Stripe.
+<br>
+[Link to deployed application!](https://boiling-wave-06210.herokuapp.com/)
 
 <br>
 Image of application.
